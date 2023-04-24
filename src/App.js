@@ -26,7 +26,7 @@ export default function App() {
        setAlert(null);
     },1500);
     }
-  
+  // my name is sapna and my friends call me sappy. I was dancing in galaparty on chair
 //settimeout is inbuilt fxn, 1500 means 1.5 sec
 
   // const removeBodyClasses=()=>{
